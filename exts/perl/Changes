@@ -1,0 +1,6 @@
+Revision history for Perl extension Zdcp.
+
+0.01  Tue Feb  3 14:08:15 2009
+	- original version; created by h2xs 1.23 with options
+		../../src/lib/zdcp.h
+
